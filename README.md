@@ -17,10 +17,19 @@
 
 
 #### 1.2 Modifikasi links
-[1.2 Modifikasi links](https://github.com/gurnitha/django_multivendor_ecom/commit/ca8cd05ac6aa2f8d9d626559046e8d931684ffe4)
+[1.2 Modifikasi links](https://github.com/gurnitha/django_multivendor_ecom/commit/4e1bdd18a700dd3b54ae428610a12141e92d0703)
 
         Aktivitas:
 
         1. Modifikasi links
+
+        modified:   README.md
+
+
+## 2. Membuat Proyek dan App
+
+        Aktivitas:
+
+        1. Membuat sub judul
 
         modified:   README.md
