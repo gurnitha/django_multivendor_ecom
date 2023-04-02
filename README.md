@@ -48,7 +48,7 @@
         modified:   README.md
 
 
-#### 2.2 Membuat django proyek dengan nama 'config'
+#### [2.2 Membuat django proyek dengan nama 'config'](https://github.com/gurnitha/django_multivendor_ecom/commit/36b9086d122df9088b7bfb77b886d8208fcfe934)
 
         Aktivitas:
 
@@ -68,3 +68,22 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+
+#### 2.3 Membuat django app
+
+        Aktivitas:
+
+        1. Membuat direktori
+        >  mkdir app\core
+        2. Membuat django app dengan nama 'core'
+        >  python manage.py startapp core app\core
+
+        modified:   README.md
+        new file:   app/core/__init__.py
+        new file:   app/core/admin.py
+        new file:   app/core/apps.py
+        new file:   app/core/migrations/__init__.py
+        new file:   app/core/models.py
+        new file:   app/core/tests.py
+        new file:   app/core/views.py
