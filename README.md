@@ -26,10 +26,23 @@
         modified:   README.md
 
 
-## 2. Membuat Proyek dan App
+## [2. Membuat Proyek dan App](https://github.com/gurnitha/django_multivendor_ecom/commit/6f170234b2c4226936cb317ea74ac3f1ddb7c43d)
 
         Aktivitas:
 
         1. Membuat sub judul
 
         modified:   README.md
+
+
+#### 2.1 Menginstal django
+
+        Aktivitas:
+
+        1. Membuat virtual environment
+        2. Menginstal django
+        3. Modifikasi .gitignore file
+
+        modified:   .gitignore
+        modified:   README.md
+
