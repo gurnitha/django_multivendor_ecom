@@ -70,7 +70,7 @@
         new file:   manage.py
 
 
-#### 2.3 Membuat django app
+#### [2.3 Membuat django app](https://github.com/gurnitha/django_multivendor_ecom/commit/ec4af8e6cdd8c4d0e3f9376686ce334ca67c25ed)
 
         Aktivitas:
 
@@ -86,4 +86,19 @@
         new file:   app/core/migrations/__init__.py
         new file:   app/core/models.py
         new file:   app/core/tests.py
-        new file:   app/core/views.py
+        new file:   app/core/views.
+
+
+#### 2.4 Register django app pada proyek
+
+        Aktivitas:
+
+        1. Modifikasi app name
+        modified:   app/core/apps.py
+        2. Register django app
+        modified:   config/settings.py
+        3. Modifikasi README.md file
+        modified:   README.md
+        4. Testing: 
+
+
