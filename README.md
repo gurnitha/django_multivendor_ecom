@@ -138,7 +138,7 @@
         1. modified:   README.md
 
 
-#### 4.1 Setting up path dan root static dan media files
+#### [4.1 Setting up path dan root static dan media files](https://github.com/gurnitha/django_multivendor_ecom/commit/854545765400f5c7a71a057bd408f3e870864579)
 
         Aktivitas:
 
@@ -146,3 +146,13 @@
         2. modified:   config/urls.py
         3. modified:   .gitignore
         4. modified:   README.md
+
+
+#### 4.2 Add dan loading static files
+
+        Aktivitas:
+
+        1. modified:   templates/app/core/index.html
+        2. modified:   README.md
+
+        Testing dan hasilnya :)
