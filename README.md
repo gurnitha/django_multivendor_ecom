@@ -137,3 +137,12 @@
 
         1. modified:   README.md
 
+
+#### 4.1 Setting up path dan root static dan media files
+
+        Aktivitas:
+
+        1. modified:   config/settings.py
+        2. modified:   config/urls.py
+        3. modified:   .gitignore
+        4. modified:   README.md
