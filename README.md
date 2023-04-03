@@ -89,7 +89,7 @@
         new file:   app/core/views.
 
 
-#### 2.4 Register django app pada proyek
+#### [2.4 Register django app pada proyek](https://github.com/gurnitha/django_multivendor_ecom/commit/cbc92441807fd91263e3ed8cefdd8c90bc5ca5a3)
 
         Aktivitas:
 
@@ -102,3 +102,8 @@
         4. Testing: 
 
 
+## 3. Django Urls, Views, Templates
+
+        Aktivitas:
+
+        1. modified:   README.md
