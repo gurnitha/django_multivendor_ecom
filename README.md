@@ -109,7 +109,7 @@
         1. modified:   README.md
 
 
-#### 3.1 Hello Wordl menggunakan url, view and templates
+#### [3.1 Hello Wordl menggunakan url, view and templates](https://github.com/gurnitha/django_multivendor_ecom/commit/c6c6d5efae26d27a7bd3312417885fd7940f2144)
 
         Aktivitas:
 
@@ -122,4 +122,11 @@
 
         Testing: :)
 
+
+#### 3.2 Mengisi html template untuk index.html
+
+        Aktivitas:
+
+        1. modified:   templates/app/core/index.html
+        2. modified:   README.md
 
