@@ -107,3 +107,19 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 3.1 Hello Wordl menggunakan url, view and templates
+
+        Aktivitas:
+
+        1. new file:   app/core/urls.py
+        2. modified:   app/core/views.py
+        3. modified:   config/settings.py
+        4. modified:   config/urls.py
+        5. new file:   templates/app/core/index.html
+        6. modified:   README.md
+
+        Testing: :)
+
+
