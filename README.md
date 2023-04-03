@@ -192,7 +192,7 @@
         Testing :)
 
 
-#### 5.2 Melindungi konfigurasi database
+#### [5.2 Melindungi konfigurasi database](https://github.com/gurnitha/django_multivendor_ecom/commit/e12460029a879d1b6a5909c503211b089c6e9f64)
 
         Aktivitas:
 
@@ -204,4 +204,11 @@
         5. modified:   README.md
 
         Testing :)
+
+
+## 6. Setting Waktu Lokal dan Bahasa
+
+        Aktivitas:
+
+        1. modified:   README.md
 
