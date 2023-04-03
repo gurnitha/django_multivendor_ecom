@@ -123,10 +123,17 @@
         Testing: :)
 
 
-#### 3.2 Mengisi html template untuk index.html
+#### [3.2 Mengisi html template untuk index.html](https://github.com/gurnitha/django_multivendor_ecom/commit/128f35f0db551e81ec1d5aa82dfe22492b22a755)
 
         Aktivitas:
 
         1. modified:   templates/app/core/index.html
         2. modified:   README.md
+
+
+## 4. Static dan Media files
+
+        Aktivitas:
+
+        1. modified:   README.md
 
