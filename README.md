@@ -148,7 +148,7 @@
         4. modified:   README.md
 
 
-#### 4.2 Add dan loading static files
+#### [4.2 Add dan loading static files](https://github.com/gurnitha/django_multivendor_ecom/commit/e01cf1ff82aa1cf97d84e7bd68b5347f12145971)
 
         Aktivitas:
 
@@ -156,3 +156,19 @@
         2. modified:   README.md
 
         Testing dan hasilnya :)
+
+
+#### 4.3 Template inheritance
+
+        Aktivitas:
+
+        1. modified:   templates/app/core/index.html
+        2. new file:   templates/base.html
+        3. new file:   templates/partials/footer.html
+        4. new file:   templates/partials/header.html
+        5. new file:   templates/partials/modals.html
+        6. new file:   templates/partials/nav-bar.html
+        7. new file:   templates/partials/nav-mobile.html
+        8. new file:   templates/partials/preloader.html
+        9. new file:   templates/partials/quickview.html
+        10. modified:   README.md
