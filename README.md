@@ -179,3 +179,14 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 5.1 Create and connect database with the project
+
+        Aktivitas:
+
+        1. Membuat postgresql database
+        2. Konek db dengan proyek: config/settings.py
+        3. modified:   README.md
+
+        Testing :)
