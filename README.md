@@ -158,7 +158,7 @@
         Testing dan hasilnya :)
 
 
-#### 4.3 Template inheritance
+#### [4.3 Template inheritance](https://github.com/gurnitha/django_multivendor_ecom/commit/ce39621a381f360f00fc0885ef6f598186c74c35)
 
         Aktivitas:
 
@@ -172,3 +172,10 @@
         8. new file:   templates/partials/preloader.html
         9. new file:   templates/partials/quickview.html
         10. modified:   README.md
+
+
+## 5. Setting up Database
+
+        Aktivitas:
+
+        1. modified:   README.md
