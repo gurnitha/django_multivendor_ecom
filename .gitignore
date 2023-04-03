@@ -3,6 +3,7 @@
 # Baru
 venv3932
 static
+.env
 
 __pycache__/
 *.py[cod]

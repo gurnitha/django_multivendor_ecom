@@ -181,7 +181,7 @@
         1. modified:   README.md
 
 
-#### 5.1 Create and connect database with the project
+#### 5.1 [Create and connect database with the project](https://github.com/gurnitha/django_multivendor_ecom/commit/58e4df2043f10e59c346c54b09ecbd4cac359912)
 
         Aktivitas:
 
@@ -190,3 +190,18 @@
         3. modified:   README.md
 
         Testing :)
+
+
+#### 5.2 Melindungi konfigurasi database
+
+        Aktivitas:
+
+        1. Menginstal django-decouple
+        >  pip install django-decouple
+        2. Membuat .env file (tidak terlihat dlm remote repositori)
+        3. Membuat konfigurasi pada:   config/settings.py
+        4. modified:   .gitignore
+        5. modified:   README.md
+
+        Testing :)
+
