@@ -212,3 +212,10 @@
 
         1. modified:   README.md
 
+
+#### 6.1 Setting waktu dan bahasa
+
+        Aktivitas:
+
+        1. modified:   config/settings.py        
+        2. modified:   README.md
